@@ -1,0 +1,11 @@
+h1{
+    color:rgb(51, 138, 145);
+}
+*{
+    border: solid;
+}
+.KEKW{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-evenly;
+}
